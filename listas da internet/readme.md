@@ -1,2 +1,0 @@
-# Listas encontradas na internet
-
