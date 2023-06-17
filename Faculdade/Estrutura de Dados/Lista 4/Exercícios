@@ -1,0 +1,31 @@
+Lista 4 - Estruturas encadeadas
+
+1. Implemente a função remove utilizando a função busca. 
+
+2. Remova duplicatas de uma lista ordenada. Suponha que lhe seja fornecida uma lista encadeada armazenando números inteiros em ordem crescente. Sua tarefa é remover todos os elementos duplicados da lista. Por exemplo, dada a lista [0 → 1 → 1 → 5 → 7 → 10 → 10 → None], seu programa deve retornar a lista [0 → 1 → 5 → 7 → 10 → None].
+
+3. Defina as funções inserção, remoção e busca como métodos da Classe Lista.
+
+4. Escrever uma função que receba como parâmetro uma pilha. A função deve retornar o maior elemento da pilha.
+
+5. Utilizando uma pilha resolver o exercício a seguir: Dada uma sequência contendo N (N >0) números reais, imprimi-la na ordem inversa.
+
+6. Escreva uma função que receba como parâmetro duas pilhas e verifique de elas são iguais. Duas pilhas são iguais se possuem os mesmos elementos, na mesma ordem.
+
+7. Construa um programa utilizando uma pilha que resolva o seguinte problema: 
+
+  - Armazene as placas dos carros (apenas os números) que estão estacionados numa rua sem saída estreita. 
+  - Dado uma placa verifique se o carro está estacionado na rua. 
+  - Caso esteja, informe a sequência de carros que deverá ser retirada para que o carro em questão consiga sair.
+
+8. Implemente uma função chamada TPilha, que receba um vetor de inteiros com 15 elementos. Para cada um deles, como segue: 
+
+  - Se o número for par, insira-o na pilha; 
+  - Se o número lido for ímpar, retire um número da pilha; 
+  - Ao final, esvazie a pilha imprimindo os elementos.
+
+9. Escreva uma função chamada TPilha2 que recebe como parâmetro 2 pilhas (N e P) e um vetor de inteiros. Para cada um: 
+
+  - Se positivo, inserir na pilha P; 
+  - Se negativo, inserir na pilha N; 
+  - Se zero, retirar um elemento de cada pilha.
