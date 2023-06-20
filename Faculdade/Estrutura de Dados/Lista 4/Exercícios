@@ -29,3 +29,39 @@ Lista 4 - Estruturas encadeadas
   - Se positivo, inserir na pilha P; 
   - Se negativo, inserir na pilha N; 
   - Se zero, retirar um elemento de cada pilha.
+
+10. Implemente uma fila dinâmica contendo todas as funcionalidades de uma fila padrão. Para isso, resolvar:
+  – Crie um nó padrão da fila.
+  – Crie uma função de inicialização da fila vazia
+  – Crie uma função push que cria e insere um novo nó para o final da fila.
+  – Crie uma função pop que remove o primeiro elemento da fila.
+
+11. Crie uma função de busca em que o usuário insere um valor (inteiro) e o programa retorna a sua posição na fila.
+
+12. Crie uma função que percorre e imprime todos os elementos da fila.
+
+13. Escreva uma função que inverta a ordem dos elementos da fila.  Por exemplo:
+
+  [1] [4] [5] [2] → [2] [5] [4] [1]
+
+14. No seu sistema operacional ao abrir o “gerenciador de tarefas” você pode exibir os processos que estão em execução, veja como isso é apresentado no windows:
+
+  (Abra o Task manager do windows)
+
+  Você já parou pra pensar como é possível executar todos esses aplicativos em apenas um processador? 
+  Isso existe graças a uma funcionalidade chamada de tempo compartilhado (“time-shared”). 
+  Essa funcionalidade mantém uma sequência de processos em uma fila, esperando para serem executados. 
+  Modifique a fila dinâmica que você implementou anteriormente para armazenar as informações desses processos.
+
+  { 
+    id = 104,
+    name = "Window manager",
+    priority = 4,
+    wait = 20
+  }
+
+  Seu programa deverá permitir:
+  – Incluir novos processos na fila de processo;           
+  – Matar o processo com o maior tempo de espera;
+  – Executar um processo (remover da fila);           
+  – Imprimir o conteúdo da lista de processos.    
