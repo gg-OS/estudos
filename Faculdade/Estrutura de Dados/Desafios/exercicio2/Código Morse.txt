@@ -1,0 +1,53 @@
+Aqui está o alfabeto em código Morse:
+
+A: .-  
+B: -...  
+C: -.-.  
+D: -..  
+E: .  
+F: ..-.  
+G: --.  
+H: ....  
+I: ..  
+J: .---  
+K: -.-  
+L: .-..  
+M: --  
+N: -.  
+O: ---  
+P: .--.  
+Q: --.-  
+R: .-.  
+S: ...  
+T: -  
+U: ..-  
+V: ...-  
+W: .--  
+X: -..-  
+Y: -.--  
+Z: --..
+
+Além das letras do alfabeto, também existem representações em código Morse para números e sinais de pontuação. Aqui estão alguns exemplos:
+
+0: -----  
+1: .----  
+2: ..---  
+3: ...--  
+4: ....-  
+5: .....  
+6: -....  
+7: --...  
+8: ---..  
+9: ----.  
+
+.: .-.-.- (ponto)  
+,: --..-- (vírgula)  
+?: ..--.. (ponto de interrogação)  
+!: -.-.-- (ponto de exclamação)  
+-: -....- (hífen)  
+/: -..-. (barra)  
+(: -.--. (parêntese esquerdo)  
+): -.--.- (parêntese direito)  
+"": .-..-. (aspas duplas)  
+
+Essas são algumas das representações em código Morse. Cada caractere é representado por uma sequência de pontos (.) e traços (-), onde o ponto representa um sinal curto e o traço representa um sinal longo.
